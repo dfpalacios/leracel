@@ -16,7 +16,7 @@ Leracel is accessible, powerful, and provides tools required for large, robust a
 
 Leracel has the most extensive and thorough [documentation](https://leracel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-If you don't feel like reading, [Leracasts](https://leracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Leracel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+If you don't feel like reading, [Leracasts](https://leracasts.com) can help. Leracasts contains over 2000 video tutorials on a range of topics including Leracel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
 ## Contributing
 
